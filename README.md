@@ -94,14 +94,6 @@ streamlit run app.py
 
 ---
 
-## 🌟 Future Improvements
-
-- 🧮 Add **player comparison filters**  
-- 💰 Add a **business insights tab** (sponsorships, brand value, ROI)  
-- 📊 Embed **Tableau dashboards** for hybrid visualization  
-
----
-
 ## 📊 Tableau Dashboards
 
 Explore the same IPL analytics on Tableau:
@@ -114,3 +106,10 @@ Explore the same IPL analytics on Tableau:
 
 ### 🔴 [Match Insights Dashboard](https://public.tableau.com/views/IPLMatchInsights/MatchInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 ![Match Dashboard](screenshots/match_insights.png)
+
+---
+
+## 🌟 Future Improvements
+
+- 🧮 Add **player comparison filters**  
+- 💰 Add a **business insights tab** (sponsorships, brand value, ROI) 
