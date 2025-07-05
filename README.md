@@ -14,16 +14,21 @@ This dashboard explores IPL data from 2008 to 2024 using Python (Streamlit) and 
 Overall win % by team
 Season-wise wins (2008–2024)
 Toss win vs match win impact
+
+
 🟧 Player Performance
 Top run scorers
 Best strike rate (500+ runs)
 Leading wicket takers
 Season-wise top batsmen (grouped bar)
+
+
 🟥 Match Insights
 Batting first vs chasing win %
 Total runs scored per team each season
 IPL final winners by year
 📊 Tech Stack
+
 
 Tool	Purpose
 Python	Core data analysis & backend
@@ -31,10 +36,13 @@ Streamlit	Frontend web app & UI
 Plotly	Interactive graphs & visuals
 Pandas	Data manipulation & wrangling
 Render	Hosting & deployment
-📂 Data Sources
 
+
+📂 Data Sources
 IPL Complete Dataset (2008–2020)
 Additional cleaned & derived datasets stored in /data/
+
+
 🧠 What You'll Learn
 
 How to clean and merge real-world sports data
