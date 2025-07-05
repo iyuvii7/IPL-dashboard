@@ -1,4 +1,4 @@
-🏏 IPL Dashboard - Team & Player Performance Analytics
+# 🏏 IPL Dashboard - Team & Player Performance Analytics
 
 📊 Visualize IPL 2008–2024 like never before — Team wins, player stats, match insights & business KPIs.
 🔗 Live Demo
@@ -42,14 +42,15 @@ Build insightful dashboards using Python + Streamlit
 Transform analysis into a deployed, interactive app
 🚀 Run Locally
 
-# 1. Clone the repo
+
+## 1. Clone the repo
 git clone https://github.com/iyuvii7/ipl-dashboard.git
 cd ipl-dashboard
 
-# 2. Install dependencies
+## 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Run the app
+## 3. Run the app
 streamlit run app.py
 🧑‍💻 Author
 
