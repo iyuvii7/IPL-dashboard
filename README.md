@@ -53,7 +53,9 @@ Built with **Python**, visualized using **Plotly**, and deployed using **Streaml
 
 ## 📂 Data Sources
 
-- [📥 IPL Complete Dataset (2008–2020)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+- [📥 IPL  Dataset (2008–2024)]
+- Deliveries Dataset(https://raw.githubusercontent.com/iyuvii7/IPL-dashboard/refs/heads/main/Ipl/deliveries.csv)
+- Matches Dataset(https://raw.githubusercontent.com/iyuvii7/IPL-dashboard/refs/heads/main/Ipl/matches.csv)
 - 🧼 Cleaned & feature-engineered files in `/data/` folder:
   - `team_win_stats.csv`
   - `top_batsman.csv`
