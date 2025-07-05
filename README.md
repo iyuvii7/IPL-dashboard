@@ -102,12 +102,15 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
+## 📊 Tableau Dashboards
 
-> *(Optional: Add these manually to your repo in a `/screenshots` folder and replace links below)*
+Explore the same IPL analytics on Tableau:
 
-### Dashboard Preview
+### 🔷 [IPL Team Performance Dashboard](https://public.tableau.com/views/IPLdashboard_17516533632720/TeamPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+![Team Dashboard](https://your-tableau-screenshot-link.png)
 
-![Team Stats](screenshots/team_dashboard.png)  
-![Player Stats](screenshots/player_dashboard.png)  
-![Match Insights](screenshots/match_dashboard.png)
+### 🔶 [Player Performance Dashboard](https://public.tableau.com/views/IPLPlayerPerformance_17516536425470/PlayerPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+![Player Dashboard](https://your-player-screenshot.png)
+
+### 🔴 [Match Insights Dashboard](https://public.tableau.com/views/IPLMatchInsights/MatchInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+![Match Dashboard](https://your-match-screenshot.png)
