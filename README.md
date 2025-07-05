@@ -90,7 +90,7 @@ streamlit run app.py
 
 **Created by [Yuvraj Singh](https://www.vitaely.me/iyuvi)**  
 📧 suwetayuvraj777@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/iyuvii) &nbsp; | &nbsp; [GitHub](https://github.com/iyuvii7)
+🔗 [LinkedIn](https://www.linkedin.com/in/yuvraj-singh-086a68189/) &nbsp; | &nbsp; [GitHub](https://github.com/iyuvii7)
 
 ---
 
