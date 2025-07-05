@@ -94,23 +94,22 @@ streamlit run app.py
 
 ---
 
-## 🌟 Future Improvements
-
-- 🧮 Add **player comparison filters**  
-- 💰 Add a **business insights tab** (sponsorships, brand value, ROI)  
-- 📊 Embed **Tableau dashboards** for hybrid visualization  
-
----
-
 ## 📊 Tableau Dashboards
 
 Explore the same IPL analytics on Tableau:
 
 ### 🔷 [IPL Team Performance Dashboard](https://public.tableau.com/views/IPLdashboard_17516533632720/TeamPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-![Team Dashboard](https://your-tableau-screenshot-link.png)
+![Team Dashboard](screenshots/team_performance.png)
 
 ### 🔶 [Player Performance Dashboard](https://public.tableau.com/views/IPLPlayerPerformance_17516536425470/PlayerPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-![Player Dashboard](https://your-player-screenshot.png)
+![Player Dashboard](screenshots/player_performance.png)
 
 ### 🔴 [Match Insights Dashboard](https://public.tableau.com/views/IPLMatchInsights/MatchInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-![Match Dashboard](https://your-match-screenshot.png)
+![Match Dashboard](screenshots/match_insights.png)
+
+---
+
+## 🌟 Future Improvements
+
+- 🧮 Add **player comparison filters**  
+- 💰 Add a **business insights tab** (sponsorships, brand value, ROI) 
